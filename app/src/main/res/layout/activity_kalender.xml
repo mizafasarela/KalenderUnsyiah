@@ -20,7 +20,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/editText"
-        android:text="   1     2     3     4     5     6     [7]     8     9     10"
+        android:text="   1     2     3     4     5     6     [7]    [8]    9     10"
         android:layout_below="@+id/editText3"
         android:layout_alignLeft="@+id/editText2"
         android:layout_alignStart="@+id/editText2"
@@ -50,7 +50,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/editText4"
-        android:text=" 21  22   23   [24]   25   26    27   28   29   30"
+        android:text=" 21  22   23   [24]   25   26    27  [28]  29   30"
         android:layout_marginTop="45dp"
         android:layout_below="@+id/editText2"
         android:layout_alignLeft="@+id/editText2"
@@ -73,6 +73,24 @@
         android:layout_height="wrap_content"
         android:id="@+id/editText6"
         android:text="24 MEI : Batas Akhir Bayar SPP"
+        android:layout_below="@+id/editText8"
+        android:layout_alignLeft="@+id/editText8"
+        android:layout_alignStart="@+id/editText8" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/editText7"
+        android:text="28 MEI : Batas Akhir Pengisian KRS"
+        android:layout_below="@+id/editText6"
+        android:layout_alignLeft="@+id/editText6"
+        android:layout_alignStart="@+id/editText6" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/editText8"
+        android:text="8 MEI   : Mulai Pengisian KRS"
         android:layout_below="@+id/editText5"
         android:layout_alignLeft="@+id/editText5"
         android:layout_alignStart="@+id/editText5" />
