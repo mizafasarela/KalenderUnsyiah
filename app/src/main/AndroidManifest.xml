@@ -26,6 +26,10 @@
             android:name=".Notif"
             android:label="@string/title_activity_notif" >
         </activity>
+        <activity
+            android:name=".Pemberitahuan"
+            android:label="@string/title_activity_pemberitahuan" >
+        </activity>
     </application>
 
 </manifest>
