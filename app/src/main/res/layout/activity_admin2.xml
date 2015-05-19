@@ -88,5 +88,14 @@
         android:layout_toRightOf="@+id/textView3"
         android:layout_toEndOf="@+id/textView3" />
 
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="LOG OUT"
+        android:id="@+id/button7"
+        android:layout_below="@+id/editText6"
+        android:layout_alignRight="@+id/editText4"
+        android:layout_alignEnd="@+id/editText4" />
+
 
 </RelativeLayout>
