@@ -21,4 +21,6 @@
     <string name="action_reply">Reply</string>
     <string name="title_activity_notif">Notif</string>
     <string name="title_activity_pemberitahuan">Pemberitahuan</string>
+    <string name="title_activity_admin">AdminActivity</string>
+    <string name="title_activity_admin2">Admin2Activity</string>
 </resources>

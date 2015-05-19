@@ -30,6 +30,14 @@
             android:name=".Pemberitahuan"
             android:label="@string/title_activity_pemberitahuan" >
         </activity>
+        <activity
+            android:name=".AdminActivity"
+            android:label="@string/title_activity_admin" >
+        </activity>
+        <activity
+            android:name=".Admin2Activity"
+            android:label="@string/title_activity_admin2" >
+        </activity>
     </application>
 
 </manifest>
